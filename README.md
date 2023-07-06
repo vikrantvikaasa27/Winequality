@@ -1,5 +1,8 @@
 # Winequality
 
+dataset:
+
+https://github.com/YBIFoundation/Dataset/blob/main/WhiteWineQuality.csv
 
 Support Vector Machines are supervised machine learning models that can be used for both classification and regression tasks. 
 
